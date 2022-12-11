@@ -1,3 +1,1 @@
-# shubham.github.io
-
-## Hello from Shubham
+# Hello from Shubham
